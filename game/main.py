@@ -1,8 +1,5 @@
 import asyncio
-#import sys
-
 import pygame
-
 from strip import Strip
 
 
