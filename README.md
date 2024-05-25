@@ -1,6 +1,6 @@
 # Simple game created with PYGAME and PYGBAG libraries
 
-Just multicolored lines filling the creen. SPACE to change colors, ESC to quit.
+Just multicolored strips filling the creen. SPACE to change colors, ESC to quit.
 
 ### deploy virtual environment
 
