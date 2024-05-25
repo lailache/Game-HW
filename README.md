@@ -1,6 +1,6 @@
-# PYGAME+PYGBAG template
+# Simple game created with PYGAME and PYGBAG libraries
 
-A working template to start coding. Just a colored screen and some infrastructure.
+Just multicolored lines filling the creen. SPACE to change colors, ESC to quit.
 
 ### deploy virtual environment
 
